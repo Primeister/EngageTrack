@@ -61,11 +61,11 @@ body{
     border-radius: 10px;
     border: none;
     outline: 0;
-    width: 90%;
+    width: 85%;
 }
 
 .input-box img{
-    width: 35px;
+    width: 10%;
     cursor: pointer;
 }
 

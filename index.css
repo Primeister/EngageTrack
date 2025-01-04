@@ -58,12 +58,13 @@ body{
 }
 
 .input-box input{
+    width: 85%;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 10px;
     border: none;
     outline: 0;
-    width: 85%;
+    
 }
 
 .input-box img{
